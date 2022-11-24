@@ -109,45 +109,18 @@ def predict(theta,X):
 np.mean(predict(res.x,X)==y)
 ```
 ## Output:
-![1](https://user-images.githubusercontent.com/93427278/196483263-1df9013b-f249-4c69-94cc-7afd26a0028d.png)
+![200657510-c1ec910e-d88d-4374-b903-5ccf7cb4cfe9](https://user-images.githubusercontent.com/94219582/203692912-1765235b-b5fd-4635-90f9-70761a0a8a69.png)
 
+![image](https://user-images.githubusercontent.com/94219582/203693152-1a43c59d-4898-4fa1-b081-6f5bb3b49010.png)
 
-![2](https://user-images.githubusercontent.com/93427278/196483304-74e45df2-c282-4069-afe1-8a76ef2f1bf4.png)
+![image](https://user-images.githubusercontent.com/94219582/203693207-a3801f72-d36f-49fb-8ccd-cc3405f5e8a4.png)
 
+![image](https://user-images.githubusercontent.com/94219582/203693234-ba810fd3-3c92-444f-98a3-9b3f09418f31.png)
 
+![image](https://user-images.githubusercontent.com/94219582/203693273-cd3dfcf3-0c53-4287-988b-bfe87e7b1c52.png)
 
-![3](https://user-images.githubusercontent.com/93427278/196483351-77eeb439-5d5f-44ed-beee-572660a918a0.png)
+![image](https://user-images.githubusercontent.com/94219582/203693298-c1cc8185-20e3-482d-b0ca-f99370fd47ea.png)
 
-
-
-![4](https://user-images.githubusercontent.com/93427278/196483389-878c03ce-5d44-4442-aa8a-883dc87e2da7.png)
-
-
-
-
-![5](https://user-images.githubusercontent.com/93427278/196483418-6ee83be3-b8aa-4156-a8a1-a5b4ded626bd.png)
-
-
-
-
-![6](https://user-images.githubusercontent.com/93427278/196483446-06824a7a-4d26-49d4-aad9-c34ff731db21.png)
-
-
-
-
-
-![7](https://user-images.githubusercontent.com/93427278/196483474-cc236bfc-14d0-4e95-99e8-690aa6c96483.png)
-
-
-
-
-
-![8](https://user-images.githubusercontent.com/93427278/196483526-9c31bde1-7680-4aa2-bf9c-50eae920a5ab.png)
-
-
-
-
-![9](https://user-images.githubusercontent.com/93427278/196483562-c6a6db09-0b71-4a21-9a73-1717d2b4183d.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
