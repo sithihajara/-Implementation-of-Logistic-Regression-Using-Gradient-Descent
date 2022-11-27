@@ -111,15 +111,6 @@ np.mean(predict(res.x,X)==y)
 ## Output:
 ![200657510-c1ec910e-d88d-4374-b903-5ccf7cb4cfe9](https://user-images.githubusercontent.com/94219582/203692912-1765235b-b5fd-4635-90f9-70761a0a8a69.png)
 
-![image](https://user-images.githubusercontent.com/94219582/203693152-1a43c59d-4898-4fa1-b081-6f5bb3b49010.png)
-
-![image](https://user-images.githubusercontent.com/94219582/203693207-a3801f72-d36f-49fb-8ccd-cc3405f5e8a4.png)
-
-![image](https://user-images.githubusercontent.com/94219582/203693234-ba810fd3-3c92-444f-98a3-9b3f09418f31.png)
-
-![image](https://user-images.githubusercontent.com/94219582/203693273-cd3dfcf3-0c53-4287-988b-bfe87e7b1c52.png)
-
-![image](https://user-images.githubusercontent.com/94219582/203693298-c1cc8185-20e3-482d-b0ca-f99370fd47ea.png)
 
 
 ## Result:
