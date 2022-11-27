@@ -1,28 +1,24 @@
-# Implementation-of-Logistic-Regression-Using-Gradient-Descent
-
-## AIM:
+# Implementation of Logistic Regression Using Gradient Descent
+# AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
-
-## Equipments Required:
+# EQUIPMENTS REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
-## Algorithm
-```
-1.Import the packages required.
-2.Read the dataset.
-3.Define X and Y array.
-4.Define a function for costFunction,cost and gradient.
-5.Define a function to plot the decision boundary and predict the Regression value.
-```
-## Program:
+# ALGORITHM:
+1. Import the packages required.
+2. Read the dataset.
+3. Define X and Y array.
+4. Define a function for costFunction,cost and gradient.
+5. Define a function to plot the decision boundary and predict the Regression value.
+# PROGRAM:
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Sithi hajara I
-RegisterNumber:  212221230102
+Developed by: PAARKAVY B
+RegisterNumber: 212221230072
 */
 ```
+
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -108,10 +104,15 @@ def predict(theta,X):
     return (prob>=0.5).astype(int)
 np.mean(predict(res.x,X)==y)
 ```
-## Output:
-![200657510-c1ec910e-d88d-4374-b903-5ccf7cb4cfe9](https://user-images.githubusercontent.com/94219582/203692912-1765235b-b5fd-4635-90f9-70761a0a8a69.png)
 
+# OUTPUT:
+![output](op1.png)
+![output](op2.png)
+![output](op3.png)
+![output](op4.png)
+![output](op5.png)
+![output](op6.png)
 
-
-## Result:
+# RESULT:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
+
