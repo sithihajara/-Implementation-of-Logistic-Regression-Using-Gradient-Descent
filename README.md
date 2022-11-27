@@ -106,12 +106,13 @@ np.mean(predict(res.x,X)==y)
 ```
 
 # OUTPUT:
-![output](op1.png)
-![output](op2.png)
-![output](op3.png)
-![output](op4.png)
-![output](op5.png)
-![output](op6.png)
+![image](https://user-images.githubusercontent.com/94219582/204131150-69a99177-426f-431c-a08c-c0b0c2f5d0cc.png)
+![image](https://user-images.githubusercontent.com/94219582/204131166-65c211be-9ae2-497a-9ad4-ca294bafa06c.png)
+![image](https://user-images.githubusercontent.com/94219582/204131176-c6867ac9-5d59-400c-bd1b-37fd9f7de72c.png)
+![image](https://user-images.githubusercontent.com/94219582/204131185-6d12890d-0fee-4b0d-be2a-8f9eb48d5dde.png)
+![image](https://user-images.githubusercontent.com/94219582/204131201-af311009-a00a-4fd2-853e-ddba53fb505c.png)
+![image](https://user-images.githubusercontent.com/94219582/204131209-3ba91818-4380-4ef2-883c-9f839d9c750a.png)
+
 
 # RESULT:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
